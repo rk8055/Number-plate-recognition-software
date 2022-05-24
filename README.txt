@@ -29,5 +29,5 @@ to run.).
 
 One the progran has run, the output would display something like this:
 
-https://raw.githubusercontent.com/rk8055/Number-plate-recognition-software/main/1.JPG
-https://raw.githubusercontent.com/rk8055/Number-plate-recognition-software/main/2.JPG
+(https://raw.githubusercontent.com/rk8055/Number-plate-recognition-software/main/1.JPG)
+(https://raw.githubusercontent.com/rk8055/Number-plate-recognition-software/main/2.JPG)
